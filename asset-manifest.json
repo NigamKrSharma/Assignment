@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Assignment/static/css/main.b661567c.css",
+    "main.js": "/Assignment/static/js/main.06a7f581.js",
+    "static/media/form-img.png": "/Assignment/static/media/form-img.f6f714349729d7b3d41d.png",
+    "static/media/Hero-1.png": "/Assignment/static/media/Hero-1.6c79c014d3bb89605aff.png",
+    "static/media/Quality.png": "/Assignment/static/media/Quality.cab1da81bcfb3a43aeb7.png",
+    "static/media/course-2.png": "/Assignment/static/media/course-2.3a4eb60b3f4b90ce53fa.png",
+    "static/media/course-1.png": "/Assignment/static/media/course-1.96faa1a7079ee03b2ac7.png",
+    "static/media/course-3.png": "/Assignment/static/media/course-3.396ed75302d247d083ac.png",
+    "static/media/Hero-2.png": "/Assignment/static/media/Hero-2.b20fcc696e8b08d4f7c3.png",
+    "static/media/wf-3.png": "/Assignment/static/media/wf-3.f27e1a6ae6895f175443.png",
+    "index.html": "/Assignment/index.html",
+    "main.b661567c.css.map": "/Assignment/static/css/main.b661567c.css.map",
+    "main.06a7f581.js.map": "/Assignment/static/js/main.06a7f581.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b661567c.css",
+    "static/js/main.06a7f581.js"
+  ]
+}
